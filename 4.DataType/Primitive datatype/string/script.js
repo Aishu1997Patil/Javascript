@@ -12,5 +12,7 @@ console.log(c);
 var name = "Shashank";
 var place = "Mysore";
 
-console.log(`my name is ${name}
+// console.log("my name is "+name,"i am from "+place)
+
+console.log(`my name is ${name}  
 and i am from ${place}`);

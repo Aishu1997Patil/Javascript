@@ -48,11 +48,11 @@ console.log(o);
 let p = a.replace("Hello", "Bye");
 console.log(p);
 
-let q = a.split();
+let q = aa.split();
 console.log(q);
-let qq = a.split("");
+let qq = aa.split("");
 console.log(qq);
-let qqq = a.split(" ");
+let qqq = aa.split(" ");
 console.log(qqq);
 
 let r = a.concat("Everyone!!");
